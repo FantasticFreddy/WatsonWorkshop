@@ -105,14 +105,14 @@ But we also see that the curve is not quite a straight line, it looks more hyper
 Moreover, some points are clearly not on the general trend, these are called **'outliers'**. You can hover at the point at `{hp: 132, mpg: 32.7}`, or `{hp: 15, mpg: 72}` for example.   
 
 # [B] Data Refinery
-The Data Refinery in **IBM Watson Studio** is an integrated ETL feature which allows to easily implement data transformation pipelines in  the form of a sequence of data operations applied to a data set called **data flows**.
+The Data Refinery in **IBM Watson Studio** is an integrated ETL feature which allows to easily implement data transformation pipelines in  the form of a sequence of data operations applied to a data set called **data refinery flows**.
 
 In this section, we will use Data Refinery to cleanse and filter the contents of the `201701-citibike-tripdata.csv` data file.   
 This file is one of the monthly reports of bike sharing usage for NYC, provided as an Open Data asset from https://www.citibikenyc.com/system-data.   
 We will use **IBM Watson Studio** to get a first understanding of the data, and apply some transformations to reduce the volume and scope of data to analyze.
 Note that this file is pretty large, with over 725000 lines of data, and a raw file size of over 120MB, in CSV format, which is not the most efficient to store data (the zipped content is about one fifth of the raw data)
 
-1. From your project's `Assets` tab, scroll down to the `Data Flows` section and select `New data flow`: ![](images_1/markdown-img-paste-20180513163836992.png)  
+1. From your project's `Assets` tab, scroll down to the `Data Refinery Flows` section and select `New data refinery flow`: ![](images_1/markdown-img-paste-20180513163836992.png)  
 1. Select the `201701-citibike-tripdata.csv` data file, click on the small eye icon to have a preview, then click the `Add` button at the bottom right. Note that if the `[Add]` button is not active, you will have to select `[Add]` from the main panel.
 1. Data Refinery will show a table with the 1000 first rows as a sample. As part of the operations we will want to apply to the data, we will:
     1. Rename the columns so as to remove blanks that could cause handling issues later on
