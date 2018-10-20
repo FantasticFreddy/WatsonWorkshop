@@ -11,7 +11,7 @@ In this lab we are learning how to do basic optimization with CPLEX and Jupyter 
 
 ![](LAB6-images/optimization-1.png)
 
-3. Copy those and create new notebook from file.
+3. Copy those and press **new notebook** button in **Project Asset** page in **Watson Studio project**.
 
 ![](LAB6-images/optimization-3.png)
 
