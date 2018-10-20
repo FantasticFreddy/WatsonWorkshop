@@ -4,4 +4,4 @@ In this lab we are learning how to do basic optimization with CPLEX and Jupyter 
 
 You can sign up to **Decion Optimization on Cloud service** go to https://developer.ibm.com/docloud/ and press register button which is located to top-right corner
 
-![](/LAB6-images/optimization-2.png)
+![](LAB6-images/optimization-2.png)
