@@ -2,7 +2,7 @@
 
 In this lab we are learning how to do basic optimization with CPLEX and Jupyter Notebook. To complete lab you need to sign up for trial period in **Decion Optimization on Cloud service**.
 
-1. You can sign up to **Decion Optimization on Cloud service** go to https://developer.ibm.com/docloud/ and press register button which is located to top-right corner
+1. You can sign up to **Decion Optimization on Cloud service** go to https://developer.ibm.com/docloud/ and press register button which is located to top-right corner. Use your IBMid. the trial period lasts two months.
 
 ![](LAB6-images/optimization-2.png)
 
