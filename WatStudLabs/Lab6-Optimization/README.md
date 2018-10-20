@@ -13,6 +13,12 @@ In this lab we are learning how to do basic optimization with CPLEX and Jupyter 
 
 3. Copy those and create new notebook from file.
 
+![](LAB6-images/optimization-3.png)
+
 4. Find **.ipynb** file from box folder named **Finding optimal locations of new store using Decision Optimization.ipynb**
+
+5. Select **Default Spark Python 3.5 XS** as a runtime
+
+![](LAB6-images/optimization-4.png)
 
 5. Follow the instructions in notebook.
