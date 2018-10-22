@@ -36,7 +36,7 @@ Lab 5 introduces Machine Learning capabilities in Watson Studio by using Jupyter
 
 ## Lab 6 Optimization
 
-Optimization is great tool for make better decisions. In this lab we are using CPLEX with Jupyter Notebooks
+Optimization is great tool for making better decisions. In this lab we are using CPLEX with Jupyter Notebooks
 
 ## Lab 7 Deep Learning
 
